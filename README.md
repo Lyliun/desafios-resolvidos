@@ -4,7 +4,7 @@
 
 ## 🎯 Objetivo
 
-Manter a constância no aprendizado de estruturas de dados, algoritmos e resolução de problemas enquanto compartilho minha evolução em público.
+Manter a constância no aprendizado de estruturas de dados, algoritmos e resolução de problemas enquanto compartilho minha evolução em público. a
 
 ## 📂 Estrutura do Repositório
 
